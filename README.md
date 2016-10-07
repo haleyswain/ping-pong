@@ -6,23 +6,23 @@
 
 ### Specifications
 1. Program can count from 1 up to the provided number
-* Example Input: 2
-* Example Output: [1,2]
+Example Input: 2
+Example Output: [1,2]
 2. Program creates an array consisting of 1 up to the number user enters.
-* Example Input: 4
-* Example Output: [1,2,3,4]
+Example Input: 4
+Example Output: [1,2,3,4]
 3. Program replaces numbers 3, 5, 15 with "ping," "pong," or "pingpong" respectively.
-* Example Input: 15
-* Example Output: "pingpong"
+Example Input: 15
+Example Output: "pingpong"
 4. Program replaces "ping" for any number evenly divisible by 3.
-* Example Input: 9
-* Example Output: "ping"
+Example Input: 9
+Example Output: "ping"
 5. Program replaces "pong" for any number evenly divisible by 5.
-* Example Input: 20
-* Example Output: "pong"
+Example Input: 20
+Example Output: "pong"
 6. Program replaces "pingpong" for any number evenly divisible by 15.
-* Example Input: 45
-* Example Output: "pingpong"
+Example Input: 45
+Example Output: "pingpong"
 7. Program allows user to enter a new number and receive different results.
 * Example Input: 7
 * Example Output: [1,2,3,4,5,6,7]

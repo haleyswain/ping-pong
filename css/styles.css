@@ -1,0 +1,12 @@
+.jumbotron {
+  background-color: #E6E6FA;
+  padding: 100px;
+  position: relative;
+  top: 20px;
+}
+body {
+  background-color: #D3D3D3
+}
+ul {
+  font-size: 24px;
+}
